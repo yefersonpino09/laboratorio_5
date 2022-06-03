@@ -8,7 +8,7 @@
 </head>
 <body>
     <form method="post" action="lab5_1.php">
-        Precio Actual:<br> <input type="text" name="precio"><br>
+        Precio Actual pruebba:<br> <input type="text" name="precio"><br>
         Cantidad de unidades<br> <input type="text" name="unidades"><br>
 
         <input type="submit" name="producto" value="Calcular">
